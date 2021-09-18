@@ -8,6 +8,7 @@ PomBase supports genomic sequence and features,
 and manual literature curation.
 
 <img align="left" width="30" height="30" src="https://user-images.githubusercontent.com/90474/133867349-10076d76-f3bc-43ee-b21b-78857ec3fc1d.png"/>
+
 PomBase also provides a community hub for researchers, providing
 genome statistics, a
 [community curation interface](https://www.pombase.org/community/fission-yeast-community-curation-project),

@@ -11,7 +11,7 @@ and manual literature curation.
 
 PomBase also provides a community hub for researchers, providing
 genome statistics, a
-[community curation interface](https://www.pombase.org/community/fission-yeast-community-curation-project),
+[community curation](https://www.pombase.org/community/fission-yeast-community-curation-project) [interface](https://curation.pombase.org),
 [news](https://www.pombase.org/news), events,
 [documentation](https://www.pombase.org/documentation) and [mailing lists](https://lists.cam.ac.uk/mailman/listinfo/ucam-pombelist).
 
